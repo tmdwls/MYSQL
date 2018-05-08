@@ -4,7 +4,7 @@ select a.id,
 from member a, 
 	  auth b
 where a.authcode = b.authcode
-and authority = '회원';	
+and b.authority = '관리자';	
 ####################################	
 
 
