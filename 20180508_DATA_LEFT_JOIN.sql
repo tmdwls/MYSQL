@@ -15,3 +15,14 @@ left join member b
 on a.id=b.id;
 ####################################
 	
+create 테이블명
+alter
+drop
+
+insert
+select
+- 서브쿼리
+- 테이블조인
+
+update
+delete
